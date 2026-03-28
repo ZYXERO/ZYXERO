@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Kaushik%20Selvakumar&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20AI%20%26%20Cloud%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:007BFF&height=200&section=header&text=Kaushik%20Selvakumar&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=800&lines=US+Permanent+Resident+🇺🇸;Computer+Engineering+@+USF+|+Dec+2026+🎓;AI+|+Full-Stack+|+Cloud+|+Cybersecurity;Building+next-gen+AI+systems+🚀;Microsoft+Learn+Student+Ambassador;Open+to+New+Grad+Roles+2026)](https://git.io/typing-svg)
 
