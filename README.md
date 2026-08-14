@@ -2,11 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:007BFF&height=200&section=header&text=Kaushik%20Selvakumar&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=800&lines=US+Permanent+Resident+🇺🇸;Computer+Engineering+@+USF+|+Dec+2026+🎓;AI+|+Full-Stack+|+Cloud+|+Cybersecurity;Building+next-gen+AI+systems+🚀;Microsoft+Learn+Student+Ambassador;Open+to+New+Grad+Roles+2026)](https://git.io/typing-svg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushikselvakumar)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=kaushik.selvakumar@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZYXERO)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](./KaushikSelvakumarResume.pdf)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=00D4FF\&center=true\&vCenter=true\&multiline=false\&width=800\&lines=US+Permanent+Resident+🇺🇸;Computer+Engineering+@+USF+|+Dec+2026+🎓;AI+|+Full-Stack+|+Cloud+|+Cybersecurity;Building+next-gen+AI+systems+🚀;Microsoft+Learn+Student+Ambassador;Open+to+New+Grad+Roles+2026)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/kaushikselvakumar)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=kaushik.selvakumar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ZYXERO)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](./KaushikSelvakumarResume.pdf)
 
 </div>
 
@@ -42,23 +43,26 @@ fun_fact: "Built an AI recipe generator in 24 hours at Hackabull 2025 🍳"
 
 <div align="center">
 
-### 🤖 AI Customer Service Platform (Contoso)
-**Microsoft-Sponsored Senior Capstone Project** | Jan 2026 - Present
+### 🛡️ Cloud-Native AI SOC + Security Intelligence Platform
+
+**Flagship Cloud Security + AI Engineering Project** | Aug 2026 - Present
 
 </div>
 
 🎯 **What I'm Building:**
-- Cloud-native AI system with multi-agent architecture for automated customer service  
-- Agent-to-Agent (A2A) communication using Microsoft's Model Context Protocol (MCP)  
-- Conversational AI agents powered by Azure AI Foundry and GPT-Nano  
-- Azure microservices architecture  
-- CI/CD pipelines using GitHub Actions  
 
-💡 **Tech Stack:** Azure AI Foundry, GPT-Nano, MCP, GitHub Actions, Cloud Services  
+* Cloud-native Security Operations Center (SOC) for real-time security log ingestion, detection, and incident analysis
+* Event-driven security pipeline using Kafka and PostgreSQL for processing and storing security telemetry
+* Secure REST APIs with JWT authentication for logs, incidents, alerts, and user access
+* AI security analyst using LLMs and RAG to summarize incidents and provide contextual security insights
+* Real-time SOC dashboard for monitoring alerts, severity levels, and security events
+* Containerized cloud deployment on AWS with automated CI/CD using GitHub Actions
+
+💡 **Tech Stack:** Python, FastAPI, Next.js, PostgreSQL, Kafka, Docker, AWS, JWT, LLMs, RAG, GitHub Actions
 
 <div align="center">
 
-**🚀 Leading a 5-person team to deliver enterprise-grade AI automation**
+**🚀 Building an end-to-end platform combining cloud engineering, cybersecurity, distributed systems, and AI**
 
 </div>
 
@@ -67,41 +71,58 @@ fun_fact: "Built an AI recipe generator in 24 hours at Hackabull 2025 🍳"
 ## 💼 Work Experience
 
 ### 🏢 Microsoft Learn Student Ambassador @ USF
+
 *Feb 2026 - Present | Tampa, FL*
-- Leading Microsoft 365 and Copilot AI adoption across USF departments  
-- Driving workflow automation with AI tools  
-- Implementing enterprise AI solutions  
+
+* Leading Microsoft 365 and Copilot AI adoption across USF departments
+* Driving workflow automation with AI tools
+* Implementing enterprise AI solutions
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🤖 AI Customer Service Platform (Contoso)
+
+**Microsoft-Sponsored Senior Capstone Project** | Jan 2026 - Aug 2026
+
+* Led a 5-person team in developing a cloud-native, multi-agent customer service platform
+* Built conversational AI agents using Azure AI Foundry with Agent-to-Agent (A2A) communication through MCP
+* Designed Azure-based microservices and automated CI/CD workflows using GitHub Actions
+* Integrated GPT-Nano for intelligent customer service automation
+
+**Tech:** Azure AI Foundry, GPT-Nano, MCP, GitHub Actions, Azure Cloud
+
 ### 🍳 AI Recipe Generator - Pantry Pal
-- Built AI meal planner generating 25+ recipes using Gemini & OpenAI  
-- Designed visual cooking flows → +30% completion  
-- Full-stack: React + FastAPI  
+
+* Built AI meal planner generating 25+ recipes using Gemini & OpenAI
+* Designed visual cooking flows → +30% completion
+* Full-stack: React + FastAPI
 
 ### 🧠 Generative AI RAG System - Nexus
-- Built RAG system using LangChain + vector DBs  
-- Fine-tuned LLMs (Llama, Mistral)  
-- Used LlamaIndex for document pipelines  
+
+* Built RAG system using LangChain + vector DBs
+* Fine-tuned LLMs (Llama, Mistral)
+* Used LlamaIndex for document pipelines
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, Java, C, JavaScript, TypeScript, SQL, Verilog  
-**Frameworks:** React, Node.js, Express, FastAPI, Flask  
-**Cloud:** AWS, Azure, Docker, GitHub Actions  
-**AI/ML:** OpenAI, LangChain, MONAI  
+**Languages:** Python, Java, C, JavaScript, TypeScript, SQL, Verilog
+**Frameworks:** React, Next.js, Node.js, Express, FastAPI, Flask
+**Cloud & DevOps:** AWS, Azure, Docker, GitHub Actions, Linux
+**Data & Streaming:** PostgreSQL, Kafka, Redis
+**AI/ML:** OpenAI, Azure AI Foundry, LangChain, RAG, Vector Databases, PyTorch, MONAI
+**Security:** JWT, IAM, OAuth2, REST APIs
 
 ---
 
 ## 🤝 Let's Connect!
 
-- 📧 Email: [kaushik.selvakumar@gmail.com](mailto:kaushik.selvakumar@gmail.com)  
-- 💼 LinkedIn: https://linkedin.com/in/kaushikselvakumar  
-- 📄 [View Resume](./KaushikSelvakumarResume.pdf)
+* 📧 Email: [kaushik.selvakumar@gmail.com](mailto:kaushik.selvakumar@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/kaushikselvakumar
+* 📄 [View Resume](./KaushikSelvakumarResume.pdf)
 
 ---
 
